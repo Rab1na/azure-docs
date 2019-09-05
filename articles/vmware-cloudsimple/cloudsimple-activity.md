@@ -27,7 +27,7 @@ Tasks track any user operation that takes more than 30 seconds to complete. You 
 
 ## Audit
 
-Audit logs keep track of user operations. Audit logs contain the parameters provided for the operation by the user.  You can use audit logs to monitor user activity for all usersas.
+Audit logs keep track of user operations. Audit logs contain the parameters provided for the operation by the user.  You can use audit logs to monitor user activity for all users. This is a test.
 
 ## Next steps
 
